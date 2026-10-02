@@ -1,5 +1,8 @@
+#admvdofun #Updated 02.10.2026
+google.com, pub-5346412818230641, DIRECT, f08c47fec0942fa0
+
 facebook.com, 1239908831391685, DIRECT, c3e20eee3f780d68
-#Updated 17.11.2025
+#Updated 02.10.2026
 #Appodeal
 appodeal.com, 260966, DIRECT
 
